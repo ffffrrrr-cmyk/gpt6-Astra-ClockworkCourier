@@ -1,0 +1,8 @@
+Final build: Unity 6000.6.7f1 / URP 17.6.0 / Windows x64 / Mono
+Build result: Succeeded / errors 0 / warnings 0
+Rule checks: 22 PASS
+Runtime state checks: 13 PASS
+Runtime process exit: 0
+Final runtime exception/error pattern scan: no matches
+User playtest: NOT TESTED
+Presented FPS: ENVIRONMENT LIMITED

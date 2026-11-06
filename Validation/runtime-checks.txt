@@ -1,0 +1,13 @@
+PASS | Initial main menu
+PASS | Fresh game starts
+PASS | Enemy roster instantiated
+PASS | Pause freezes game timer
+PASS | Pause freezes courier
+PASS | Pause freezes lift
+PASS | Retry preserves double jump
+PASS | Retry restores checkpoint position
+PASS | Enemy death rewarded once
+PASS | Two-stage warden exists
+PASS | Warden unlocks delivery
+PASS | Delivery reaches completion state
+PASS | Completion and ability persist on disk

@@ -1,0 +1,21 @@
+{
+  "project_id": "U2",
+  "project_name": "发条信使",
+  "supply_type": "new_production",
+  "started_at_utc": "2026-11-06T07:15:40Z",
+  "model_identifier": "gpt-6-astra",
+  "procurement_model_family": "6astra",
+  "model_evidence": "Current session configuration explicitly identifies the model as gpt-6-astra.",
+  "provider": "OpenAI",
+  "backend_snapshot": null,
+  "backend_snapshot_status": "Not exposed; procurement verification pending.",
+  "subscription_plan": null,
+  "subscription_plan_status": "Not accessible; owner to supply.",
+  "session_id": "01a1afb4-74e1-7671-8a86-a3ee01f88406",
+  "session_id_status": "Verified from the Codex app open_in_codex result for this chat at delivery. Environment variables were empty at startup.",
+  "source_task": "六个游戏项目提示词_20261106/U2_Unity_发条信使.txt",
+  "user_authorization": "本次按采购 Word 和 U2 提示词直接开发，正式编号使用 U2，豁免缺失文件门槛",
+  "implementation_started": true,
+  "human_code_edits": [],
+  "procurement_acceptance": "Pending source evidence, rights and final verification review."
+}

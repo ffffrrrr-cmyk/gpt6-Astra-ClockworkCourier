@@ -1,0 +1,22 @@
+PASS | One hit per target per swing
+PASS | Next swing can hit again
+PASS | Invulnerability prevents duplicate damage
+PASS | Death is terminal until reset
+PASS | Checkpoint resets health and energy
+PASS | Dash cooldown
+PASS | Empty energy still permits basic dash
+PASS | Energy clamped to maximum
+PASS | Retry cannot duplicate rewards
+PASS | Progress round trip
+PASS | Invalid save rejected
+PASS | Corrupt save rejected
+PASS | Scene has exactly one courier
+PASS | Scene has exactly one session
+PASS | Tuning asset available to runtime
+PASS | Scene has no missing behaviour references
+PASS | Checkpoint has safe floor at 3
+PASS | Checkpoint has safe floor at 35
+PASS | Checkpoint has safe floor at 67
+PASS | Checkpoint has safe floor at 102
+PASS | Checkpoint has safe floor at 137
+PASS | Checkpoint has safe floor at 171

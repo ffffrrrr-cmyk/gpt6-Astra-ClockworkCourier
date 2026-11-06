@@ -1,0 +1,8 @@
+Unity: 6000.6.7f1
+OS: Windows 10  (10.0.19044) 64bit
+CPU: Intel(R) Core(TM) i5-14400F
+GPU: NVIDIA GeForce RTX 5060
+Graphics API: Direct3D12
+Resolution: 1920x1080
+Screenshot kind: actual Camera.Render output; excludes IMGUI overlays.
+Gameplay feel and full traversal: not tested by user.

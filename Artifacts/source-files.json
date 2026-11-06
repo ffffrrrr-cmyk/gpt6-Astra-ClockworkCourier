@@ -1,0 +1,1147 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "47e754bd149b767fa706ae08eb3923f79f3a0fb85f0c5da848c0ae6bbb2c2198",
+    "bytes": 87
+  },
+  {
+    "path": "Assets/DefaultVolumeProfile.asset",
+    "sha256": "91ae49d6faa35a33a2cd2f155f34b802e2ffe8f3a879071851a47838358c8721",
+    "bytes": 20476
+  },
+  {
+    "path": "Assets/DefaultVolumeProfile.asset.meta",
+    "sha256": "17fdc9b206d99b474b37a05c73dc392eb3d0787c900a0a7bc18b08151d3849e2",
+    "bytes": 189
+  },
+  {
+    "path": "Assets/Editor.meta",
+    "sha256": "580a15aa3ff9e456e7ba1efabb72eb14845a52415aaf2cd2b9514f4a800103d9",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Editor/ProjectBuild.cs",
+    "sha256": "30a5bf621f3d70152c16c8b0384f543c5d7637c37d3354b538b0cb83531ad2f2",
+    "bytes": 7076
+  },
+  {
+    "path": "Assets/Editor/ProjectBuild.cs.meta",
+    "sha256": "e0726b3de3ae573e42d6a7da92e6bc99f1cb287a54bcf35e40f0a22c3c203e52",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Editor/RuleChecks.cs",
+    "sha256": "f49fb27acd52a743c2c73f03462982577bbb914c08ad51bd46ce9263fb7bd522",
+    "bytes": 3867
+  },
+  {
+    "path": "Assets/Editor/RuleChecks.cs.meta",
+    "sha256": "dcd0333dc6bb2f6caf32ccc2d94bc4bf815d13fd7c23a34d5f96eadbe8c12a08",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Generated.meta",
+    "sha256": "281cf0fe7aaa785e2eb0e9133a832f9ddbdb4dfed9714abf82463986b615dc99",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Generated/CourierPipeline.asset",
+    "sha256": "f36e151f31cfa03c953675cd53ff18a3416fa2a376dc413e2f4060899a8b3d16",
+    "bytes": 4920
+  },
+  {
+    "path": "Assets/Generated/CourierPipeline.asset.meta",
+    "sha256": "7046a3562d8d45ec7126399b7c3dcd862f5c75d9c08b18cc65868435757c8177",
+    "bytes": 189
+  },
+  {
+    "path": "Assets/Generated/CourierRenderer.asset",
+    "sha256": "37edf15d740731b9fd8f3344e797fbb1b3d156d508b80cd8ff826c60fa940264",
+    "bytes": 1857
+  },
+  {
+    "path": "Assets/Generated/CourierRenderer.asset.meta",
+    "sha256": "06f9da5ec07f45b449bc3b1ccce70484868ccdc5160a591df74aaeb81ebc0ced",
+    "bytes": 189
+  },
+  {
+    "path": "Assets/Generated/Finish-26.asset",
+    "sha256": "b7235582fcbad0688989814812955f6aa2716dfa4e5fb3c492bdcaec067fb5a8",
+    "bytes": 175788
+  },
+  {
+    "path": "Assets/Generated/Finish-26.asset.meta",
+    "sha256": "3e95463f196cf5a4e07fbf94cc0d302a6fded5ccd56062146b9d06d6748bb6aa",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Finish-27.asset",
+    "sha256": "8386dad8e3b1a32236f5f319dc29e6560105c227da3ebd28213a2c79646dc107",
+    "bytes": 175788
+  },
+  {
+    "path": "Assets/Generated/Finish-27.asset.meta",
+    "sha256": "d489579a4d1bceb98660970a8ad658fb06b5d69fdd63b0c2e642ede92b0dd815",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Finish-28.asset",
+    "sha256": "ebd55db50a579ffc0151961bb4e8e31b62a1ba57f524f2c0ba83cbddb65d7d08",
+    "bytes": 175788
+  },
+  {
+    "path": "Assets/Generated/Finish-28.asset.meta",
+    "sha256": "77c4116f03054ccfb91c70108e8c20c33c7002de0e327c3385392c73706f10ce",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Finish-29.asset",
+    "sha256": "037a62bfe9052282afceed5e8c57f0da1c91cff477e14b7e56f2ec73136bcbcb",
+    "bytes": 175788
+  },
+  {
+    "path": "Assets/Generated/Finish-29.asset.meta",
+    "sha256": "53d12ea931ba0f4d9fae92bd8863e002f8288997558397ba00151589e3601eb8",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Finish-30.asset",
+    "sha256": "d275dde915ce7aacc2acf8cfbceafabe18606df03b027bf8f606d6f92aed5a6d",
+    "bytes": 175788
+  },
+  {
+    "path": "Assets/Generated/Finish-30.asset.meta",
+    "sha256": "0144a014bbac98dff486941ed482237d51320ad6ec9cf8174c79eb074add43cc",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Finish-31.asset",
+    "sha256": "4518e6ee92b3a0160a707cf8e4c85e9567bd56d3696366721aef50f1740c7562",
+    "bytes": 175788
+  },
+  {
+    "path": "Assets/Generated/Finish-31.asset.meta",
+    "sha256": "2dbc1671384c51f83ac2c85897b264cad40181c9a479f59f2aa7df616100d3c2",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Finish-34.asset",
+    "sha256": "361c4457bd1f5b5a9cedaf9d36169dcf1defbb2698dc40d15c7b0f9bad89aabb",
+    "bytes": 175788
+  },
+  {
+    "path": "Assets/Generated/Finish-34.asset.meta",
+    "sha256": "5b38ea4c9dfc7cf71e8c2a5199b492fed78d2188e16b064020466d0786908fab",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-26.mat",
+    "sha256": "f0c92b442edf3117b2b5af6acba273c8db6c6fcbaa5029e4552bef8d03213035",
+    "bytes": 4042
+  },
+  {
+    "path": "Assets/Generated/Material-26.mat.meta",
+    "sha256": "52abc78806d7e01af74727803765b7d3baedb1abbdc4dbb256c8554989474636",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-27.mat",
+    "sha256": "f2497a5a82c15b407a63708be24d0abbc90389da0dc68a5a50d256b70707de26",
+    "bytes": 4035
+  },
+  {
+    "path": "Assets/Generated/Material-27.mat.meta",
+    "sha256": "85422f5af17fc04cd0f41eb964811c556e402fe19820c326966528fe266bc063",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-28.mat",
+    "sha256": "4363d89ad06db42b62066116de7b95da67f051c1cbc468c280efa0fae3598f0c",
+    "bytes": 4039
+  },
+  {
+    "path": "Assets/Generated/Material-28.mat.meta",
+    "sha256": "01c465ef8ddfeee8b693229c83a86c6a30cc1257f37b3ae3da233cf4627eefd7",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-29.mat",
+    "sha256": "685410d90ed78c4d8085124c50ba6bace81172d439deecd2cbbd4ee6c4a0b433",
+    "bytes": 4021
+  },
+  {
+    "path": "Assets/Generated/Material-29.mat.meta",
+    "sha256": "f9492fef2a23028e04c2cee8fa2385aada499c7f2a173ee497844f6a646429b7",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-30.mat",
+    "sha256": "c65c1256c3c71dd8750a6dde5d8873c572ff78418ae1c1803535eba1849aaa79",
+    "bytes": 4044
+  },
+  {
+    "path": "Assets/Generated/Material-30.mat.meta",
+    "sha256": "eed972cd141dd1fda4aed4b8d65a79db86551b02134e89fb5756d6d8276db463",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-31.mat",
+    "sha256": "ad1d07a65a338f6fb9853aacb67c9d5cd905449ad16d7a793f0cb713b021c38d",
+    "bytes": 4056
+  },
+  {
+    "path": "Assets/Generated/Material-31.mat.meta",
+    "sha256": "8e413179b68989803c609d2e04709d9f222f1a38a4f2d61a55069217625f6237",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-32.mat",
+    "sha256": "80aac041b378324a852a043079b98d87aa904f2a8de0f267e6dd3a7b2d84937d",
+    "bytes": 3935
+  },
+  {
+    "path": "Assets/Generated/Material-32.mat.meta",
+    "sha256": "378cf32cbcb490e94dee6fb00198df18865fb9f80dcfed51d6a4584e737bb907",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-33.mat",
+    "sha256": "2a6753301db95def0449ccfdb2ece2cf5bf81bc47840fb6a7b8a7441bd06c558",
+    "bytes": 3945
+  },
+  {
+    "path": "Assets/Generated/Material-33.mat.meta",
+    "sha256": "d48f94235742ee41526287a50a34a071b0d557b843b4f9cd1da49b25fb280c3b",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-34.mat",
+    "sha256": "bbb1fe842ba7b4ddb65b06de83affa513aa2de3733bfca3b5221aa1fe13dae68",
+    "bytes": 4043
+  },
+  {
+    "path": "Assets/Generated/Material-34.mat.meta",
+    "sha256": "78e5979b4ffb9fa5fc5fb55e4607ca9d5d45016a416fa1c4ad2342fec34ccc80",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-35.mat",
+    "sha256": "7daf10365930e84c1830ddb87738498799b5ec9a4ade8c223b0e7adfd606f65e",
+    "bytes": 3945
+  },
+  {
+    "path": "Assets/Generated/Material-35.mat.meta",
+    "sha256": "7cee2f12c46ab95bbf210c1d9f9231f1d0cb567cb714f7eab67ac93f9d3be76a",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Material-36.mat",
+    "sha256": "d55ae55a884dd6c909a150db4334d9a71f92c76ec6835a7c7cc0a79d4960f286",
+    "bytes": 3943
+  },
+  {
+    "path": "Assets/Generated/Material-36.mat.meta",
+    "sha256": "c9f0cf89c109421e6675366d5ed92cedd6fe5acd20f011edb4e3cb89a7a727b4",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-0.asset",
+    "sha256": "4cce2145d2e746e31d06da8e1ea3b56b27c3f4d449acf001d1f8a28fb0dd71a8",
+    "bytes": 15363
+  },
+  {
+    "path": "Assets/Generated/Mesh-0.asset.meta",
+    "sha256": "0239e1df4318a22dd8d0d9cb76325783374c1ef222c85059e5984e6a5741c237",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-1.asset",
+    "sha256": "8c539d51662c1125bc81d6e3a4421cc67e4d0c3a95e9e333791d4bc569b20e96",
+    "bytes": 15363
+  },
+  {
+    "path": "Assets/Generated/Mesh-1.asset.meta",
+    "sha256": "1ce470146e81ec40eedcb3fb6f6bb1679c00f123e91b4fe239a332e1feb07904",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-10.asset",
+    "sha256": "c73870a8d147be3f4d429ea88f1d2a7603a098344a777099010ab6634ba33355",
+    "bytes": 57226
+  },
+  {
+    "path": "Assets/Generated/Mesh-10.asset.meta",
+    "sha256": "666568d0cc0c92fe5a006852a0488d5a9607b903af95f744e452442816925dea",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-11.asset",
+    "sha256": "7623b569a2d68cf6d510ba25d9ea11398894983ae96d13421375090b6f16a384",
+    "bytes": 15364
+  },
+  {
+    "path": "Assets/Generated/Mesh-11.asset.meta",
+    "sha256": "2dcf9d41058405c3d94bbc9ffea814d3d1c21f1bfeb48eef6ce959d14e38f628",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-12.asset",
+    "sha256": "511b4baa676933cf6a0045e57848265d1b68b176c0d65fbbe62463bc3f9765c5",
+    "bytes": 57230
+  },
+  {
+    "path": "Assets/Generated/Mesh-12.asset.meta",
+    "sha256": "e064267d727e49e38211c346ee56fc34abd5edd6396c808a590f21ffc660366e",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-13.asset",
+    "sha256": "ae64caa5439b697fbe2dfc925ed8bbee960803493bf617ca22080c5da006d593",
+    "bytes": 75150
+  },
+  {
+    "path": "Assets/Generated/Mesh-13.asset.meta",
+    "sha256": "b02c56b7d90fb328620bc2aae964dca1b21cd9e98262be0f287d40856e790cae",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-14.asset",
+    "sha256": "c8477907658452bed35f6921920ffd46a160a66931fbf5b032142922258806b7",
+    "bytes": 75152
+  },
+  {
+    "path": "Assets/Generated/Mesh-14.asset.meta",
+    "sha256": "775b741b703ec3bc55115f7c71fc10009e81c7a1c250fd0db343e3ff234c4fd1",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-15.asset",
+    "sha256": "acdf69522f1ab210bee74d4fda827595244766bf26d606d48a06bcc34bc6a9ce",
+    "bytes": 43789
+  },
+  {
+    "path": "Assets/Generated/Mesh-15.asset.meta",
+    "sha256": "e5454e8cd891f829453899107fa7564c0a5d93201a606c2aa8eb6da3177ddbea",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-16.asset",
+    "sha256": "df52bafc17bbbf5eba4e5176fd6d66da5f315587e043e9860fadd57b37883a68",
+    "bytes": 110986
+  },
+  {
+    "path": "Assets/Generated/Mesh-16.asset.meta",
+    "sha256": "6fea2da760d919dc4016f273b2d0af77852527516785490dc96da73007d2ebfd",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-17.asset",
+    "sha256": "59284bd3a55c1184fe98aaa5ffa25d4a5ddd3d0ca85abb7567edea1c2bc1338a",
+    "bytes": 75146
+  },
+  {
+    "path": "Assets/Generated/Mesh-17.asset.meta",
+    "sha256": "2b2d041200bbb11e86822a5c96ebf315149f5d75a0b6b3329dac8913385a7e7a",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-18.asset",
+    "sha256": "bffa5510f47e5ddbb46c0f3637d31332727fbe5150e2676f42c6af5bb494eb2f",
+    "bytes": 43785
+  },
+  {
+    "path": "Assets/Generated/Mesh-18.asset.meta",
+    "sha256": "45dbc73c6d54e66cfec4d3bea545685098c39a2280a2958a47e3323af6828dbd",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-19.asset",
+    "sha256": "f8104a61db5f2e0fb42d56cf4a13ee9f2b7e1a4e576c9e243df3f59fc1754778",
+    "bytes": 15364
+  },
+  {
+    "path": "Assets/Generated/Mesh-19.asset.meta",
+    "sha256": "0a70c8146f599442fb80dc8e45904b0e085c5861c7c810f2bf8988525e399b07",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-2.asset",
+    "sha256": "e6652e7ef7f32568c4e91609939fe6e7d3f8374200b25593d392ca0076c1e2d8",
+    "bytes": 75149
+  },
+  {
+    "path": "Assets/Generated/Mesh-2.asset.meta",
+    "sha256": "e86d5669c41b7e1c662cb86a37b727691c582ab3e3111263b7e090c956446a24",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-20.asset",
+    "sha256": "24c81e45452cb2dbc99ac59686f7699c2f25e28ef714d127efe24a4deab5c392",
+    "bytes": 128906
+  },
+  {
+    "path": "Assets/Generated/Mesh-20.asset.meta",
+    "sha256": "f8b9ed75401bb407a8d7eeabacf39a274b3bb8914eeee4f377ac1e8875ead097",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-21.asset",
+    "sha256": "7ca9d2036704ca0e438d4ac0a6519c54ac2e89db69c134194b0169a232df3379",
+    "bytes": 57228
+  },
+  {
+    "path": "Assets/Generated/Mesh-21.asset.meta",
+    "sha256": "4afa8dc647cc1908c1168a98d4eaebb07a84d2a2cc53df387777bcd6a5a40f85",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-22.asset",
+    "sha256": "69cb16d2b4a9edd52c0f531be4a48688f92849891cd3862bca5a4e4ac237d757",
+    "bytes": 57226
+  },
+  {
+    "path": "Assets/Generated/Mesh-22.asset.meta",
+    "sha256": "2a4ba268b5e7fdba1a630800190a0fdd1f7b208f24e41149cc3eac1927bfd604",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-23.asset",
+    "sha256": "6758ed64fbd9a8c14efc3992d4cd4f1d5cd4478cfe4a12404ca4f230e1a1551b",
+    "bytes": 128910
+  },
+  {
+    "path": "Assets/Generated/Mesh-23.asset.meta",
+    "sha256": "e894f21f1cf8dbcac543107031753a5e9b58fd0adfc83dc958969ccb6be05386",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-24.asset",
+    "sha256": "bae19b54318bbd32dbc9dabe0944439fddbac8d4b3e3571488c7cfc618232ee4",
+    "bytes": 272259
+  },
+  {
+    "path": "Assets/Generated/Mesh-24.asset.meta",
+    "sha256": "d91852bc494a2fe1f00f2b5fccd16a108400af0ce513d74c6b6c71e10bd49207",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-25.asset",
+    "sha256": "a9b01b5391d442269afe711c4e8cc29745ad2823ed7c5230128874286c3206b4",
+    "bytes": 57224
+  },
+  {
+    "path": "Assets/Generated/Mesh-25.asset.meta",
+    "sha256": "7046b10e5022c0099acc3d831b56689f08648bae4c678d0c3bece3dc8877a8dc",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-3.asset",
+    "sha256": "bf9fe43d2d2ff317efda264d4d47ee6b11be0ea5b61219bcb08c9624cece7bd9",
+    "bytes": 43788
+  },
+  {
+    "path": "Assets/Generated/Mesh-3.asset.meta",
+    "sha256": "dcb9bb3c43c1cd7c19150bdb0e0f308a6bc24277cf69f9baa01e69093185422b",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-4.asset",
+    "sha256": "5ab85575c519b337d7f5243554d4eca4b188bc235aa41999f447930732be7beb",
+    "bytes": 15363
+  },
+  {
+    "path": "Assets/Generated/Mesh-4.asset.meta",
+    "sha256": "3c24480d4f48243cd8ecc4f64b438bf51dc7cf0e3ab9f0ac86565ada61ebf7ac",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-5.asset",
+    "sha256": "855113e98d9bdad1a7b8889d508cda6281d72f8e3d27bda88060f802e566e779",
+    "bytes": 57233
+  },
+  {
+    "path": "Assets/Generated/Mesh-5.asset.meta",
+    "sha256": "354e677100313b00470ec835a087cf98a9e432d70e85d727e5d6e32872c3619f",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-6.asset",
+    "sha256": "5cfc44b12071de8c3b5ee7638e59d7601e4b6f2265656aa8f3127ebf8061df47",
+    "bytes": 43794
+  },
+  {
+    "path": "Assets/Generated/Mesh-6.asset.meta",
+    "sha256": "c0960affaaf17cc0970e40a601721d196c1a55d012cb101f625bd6ed66d47309",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-7.asset",
+    "sha256": "482a0cd7b678f1122f763a6eeb8ac52d9a33cb42bdbdd86032150c697b001c11",
+    "bytes": 15363
+  },
+  {
+    "path": "Assets/Generated/Mesh-7.asset.meta",
+    "sha256": "fe2c826ea954e6942e2caeca21ac8cb4787210bd1dc20bf1a51a8b3ca8297613",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-8.asset",
+    "sha256": "4cd1f7e735e509fd9d1fe76231c730ba0606563e7ed3e099e2602775681eaf17",
+    "bytes": 43794
+  },
+  {
+    "path": "Assets/Generated/Mesh-8.asset.meta",
+    "sha256": "790502a54bbd3bd5ea7477bc907010980e6474182d45cc45e3723884b4e52018",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Generated/Mesh-9.asset",
+    "sha256": "c980167d419d8343a175cedbcd6fab81dfa506fe592a7b52de18cfb1493cc615",
+    "bytes": 48310
+  },
+  {
+    "path": "Assets/Generated/Mesh-9.asset.meta",
+    "sha256": "d4d3c3fa2e2f3da05e401b116049d07259a10688028b00ebc629c1f936ee1a55",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Prefabs.meta",
+    "sha256": "2ec0b2be1099b6a7ae55f1e4946bfd09282f83f55333f16a7ff0e6588ff06cce",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Prefabs/Courier.prefab",
+    "sha256": "6657570f3d627c896e1ce452e3d3f819b97c5bc9669361ccaffbb2e89cd0caab",
+    "bytes": 127365
+  },
+  {
+    "path": "Assets/Prefabs/Courier.prefab.meta",
+    "sha256": "d87136af8a58bb8d4c09b1cb66ad12cd6d9c33154faa3e2a73dc834fe4fd23af",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Prefabs/Drone.prefab",
+    "sha256": "d4b9f10d6b75c1c4d56a634afda030c9d24703bacaf1440d61c111d626127413",
+    "bytes": 18458
+  },
+  {
+    "path": "Assets/Prefabs/Drone.prefab.meta",
+    "sha256": "cd8ad20f256eef8936e819c47f9f28d73fc77f9ca32039f31bc9c3e8f289884f",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Prefabs/Patrol.prefab",
+    "sha256": "3316e5c59c4f6a128fa762f11affee4ea0a44e9ca0dec0182394e6da8aa3dc2f",
+    "bytes": 129993
+  },
+  {
+    "path": "Assets/Prefabs/Patrol.prefab.meta",
+    "sha256": "8993b5e07bea806402eeb284906ece0e97019c0c2f7322c859a271fd72566aac",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Prefabs/Turret.prefab",
+    "sha256": "8077ef4ead040ee4d8d3f9f687160e519bc2a645514380282346d02d1ac21a98",
+    "bytes": 17991
+  },
+  {
+    "path": "Assets/Prefabs/Turret.prefab.meta",
+    "sha256": "d9f1bfa350f2568a42164889f6ac2590875555761d460fce0136936b897fed4c",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Prefabs/Warden.prefab",
+    "sha256": "e9cff2d0af43baebe073c71b286ffdae332c35b7a48bb43041f1f3783eba58aa",
+    "bytes": 133145
+  },
+  {
+    "path": "Assets/Prefabs/Warden.prefab.meta",
+    "sha256": "60e59233fbdd61d69518927c398828d5dd1571041298871843c6d72ab246fb6a",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Resources.meta",
+    "sha256": "97a7e1e9eff06c683ec8989aaeca9773e3c5360ec266a9db4c301c86f9459dbd",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Resources/GameTuning.asset",
+    "sha256": "a05a763848bf2c039397af1dcafc9153b0b0337d23984100719801076ca7dc4f",
+    "bytes": 686
+  },
+  {
+    "path": "Assets/Resources/GameTuning.asset.meta",
+    "sha256": "9a5abadd0fad66c7c6741f6bb3a1e0e444d78670af014ed49cdd1eb971584c56",
+    "bytes": 189
+  },
+  {
+    "path": "Assets/Scenes.meta",
+    "sha256": "57ac5273aeefa2bb7944f8e7ddc4d1bb19d7832c566c9d87b22fcda2325c3e1b",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Scenes/ClockworkCourier.unity",
+    "sha256": "276c157c95ba312b295b0dbe2f6b1caec34174c0992f63eebda27da80cd422e8",
+    "bytes": 5926212
+  },
+  {
+    "path": "Assets/Scenes/ClockworkCourier.unity.meta",
+    "sha256": "f64613db6d87396e843314f49a89cd614d51763e8aadab4fef50fffd26d48f58",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Scripts.meta",
+    "sha256": "54194bfec08662b6e7478abb0ea6280df64ba9006eb46bb6951b324b70dcafe7",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Scripts/Actors.meta",
+    "sha256": "0292a4311b7488e5f135d66de7ab3250dea2d4afcbdd913299476066763f2f44",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Scripts/Actors/CourierController.cs",
+    "sha256": "5ff824a15bc93a8708f4410aa984cd9563e16c43f947f3785747823c1f2e8ee3",
+    "bytes": 8444
+  },
+  {
+    "path": "Assets/Scripts/Actors/CourierController.cs.meta",
+    "sha256": "6a2a16da65990d4c98ed6765222fc95a08cccd8b044139e6fadbebae7a1eda3e",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Actors/EnemyActor.cs",
+    "sha256": "e79cda085c973128a63116474858edac5cb917f4afe03a221e1b7031d474c9be",
+    "bytes": 6641
+  },
+  {
+    "path": "Assets/Scripts/Actors/EnemyActor.cs.meta",
+    "sha256": "02e6eaa1d11bce6efd89daf47a44972166b26262563188fec2ecb85db55e081d",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Actors/EnemyProjectile.cs",
+    "sha256": "f98b7c8373b2dd90f5ef2176eefeed85f7762cf4a943f35362360e9cc80f9438",
+    "bytes": 1609
+  },
+  {
+    "path": "Assets/Scripts/Actors/EnemyProjectile.cs.meta",
+    "sha256": "10efb3e9f11c001d4e14cbbb86d3de4dc7ecb0044341637a99e71401ca2d544f",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Core.meta",
+    "sha256": "ea988a19ce2bd45637b51baa6dfe17948d05e19dbe79dc9ff92827cc638f7209",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Scripts/Core/GameRules.cs",
+    "sha256": "94270c24f6c5d6300b474aa0d75bfc8fded45a99aa1e17fa2fac831252a5f7e6",
+    "bytes": 3238
+  },
+  {
+    "path": "Assets/Scripts/Core/GameRules.cs.meta",
+    "sha256": "0a790a3eab741d642d35c0d3c67c535e84bb38f5d2e536ad11e395f567956e8b",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Core/GameSession.cs",
+    "sha256": "cb0bdfcfb219f38facd2881cc9e1ed735d7ddc1684ac544eace791a44ac96b84",
+    "bytes": 8981
+  },
+  {
+    "path": "Assets/Scripts/Core/GameSession.cs.meta",
+    "sha256": "ff4304699c0485e037b7c38f40d877f23fd33af76a59bd94176e83c3175934cb",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Core/GameTuning.cs",
+    "sha256": "fa803ac803c91f931c89f54f84fc526315cd8dad32910715f2addf8f3e645a05",
+    "bytes": 1026
+  },
+  {
+    "path": "Assets/Scripts/Core/GameTuning.cs.meta",
+    "sha256": "2fa830056abcfec6eb757d5fcaef8f065b05a7cc60b991407e4468a2eaad5966",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Core/RuntimeSmoke.cs",
+    "sha256": "ae4260c2bb7b4b88548c66530b77f3eb9ac69042323886cf0f2c924ccfd4c05b",
+    "bytes": 5772
+  },
+  {
+    "path": "Assets/Scripts/Core/RuntimeSmoke.cs.meta",
+    "sha256": "268ccfccb34f4335e5bbe8728a34fca9d499b581c8c4eefb76dd28fa1182ad45",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Core/SaveStore.cs",
+    "sha256": "1fc8e812c3a2d806a2b0f4fed257c8e734bf1dab6da689a7899200d70a3c0a2a",
+    "bytes": 2159
+  },
+  {
+    "path": "Assets/Scripts/Core/SaveStore.cs.meta",
+    "sha256": "5369a6ac4c02859a3404979c645cb7744bbdfcfdd2cf67aa957378270da16bef",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/UI.meta",
+    "sha256": "b19f238092a65f640169be45b6be62bec8b7063562e1c0dac7508bd505bb95be",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Scripts/UI/GameHud.cs",
+    "sha256": "481e249c9acef59d8c3940f696980e311b4ba2bd4cf8e157a398646e38ff8bc6",
+    "bytes": 14189
+  },
+  {
+    "path": "Assets/Scripts/UI/GameHud.cs.meta",
+    "sha256": "18485323bd6805eef64308bf7cba2dc00694e31e7ae2b586e1f993109ae4deb6",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Visual.meta",
+    "sha256": "66db1201a8edf771a91763794a49617923dfec50b20a4b18862310a22b2ea92a",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Scripts/Visual/ArtFactory.cs",
+    "sha256": "886a6876404cb2bbcebf9189c67c38f6c6764ac2e10f0a3091b4e5f830644667",
+    "bytes": 13092
+  },
+  {
+    "path": "Assets/Scripts/Visual/ArtFactory.cs.meta",
+    "sha256": "5496bb7b832597983d82bfbb7d30e90bc16f06c7fc14d7e870237f9e0123be6b",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Visual/CourierCamera.cs",
+    "sha256": "53619df3fa88db5630276aea9f3b19b08506dbfb21d4fe66640f10fece3cf85d",
+    "bytes": 1159
+  },
+  {
+    "path": "Assets/Scripts/Visual/CourierCamera.cs.meta",
+    "sha256": "16993ae220b9797db666ea738b161eb62d4d96e76ed58d4ed18243243fb8db2c",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Visual/Ephemeral.cs",
+    "sha256": "6e92efb3daa19a768b2a8f3c140864435a4d10aa3c9a08d84e84f9031eac56d5",
+    "bytes": 519
+  },
+  {
+    "path": "Assets/Scripts/Visual/Ephemeral.cs.meta",
+    "sha256": "f095b64394b26e719083329bc1fa364409ffba278a821eb4d78a43d7d377ffe2",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Visual/GearMotion.cs",
+    "sha256": "dce7a49c7fe9b64be6ef0700b814685c39a86c49cd4880f4b91ec183fcb48f5a",
+    "bytes": 229
+  },
+  {
+    "path": "Assets/Scripts/Visual/GearMotion.cs.meta",
+    "sha256": "a1148706622110f682ad7d325c71b42a4fc590d645e3b40ff0ade2b7e55c7ddb",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Visual/MechanicalRig.cs",
+    "sha256": "93ac97f36325b22d6dc47f6b815ea67570d77ba207e7caca573db1d5a3e75941",
+    "bytes": 1751
+  },
+  {
+    "path": "Assets/Scripts/Visual/MechanicalRig.cs.meta",
+    "sha256": "18628f78769b5d63fae5e03e5e286198e42fe747fe974497c8b80bcdea9d860c",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/Visual/SoundDesign.cs",
+    "sha256": "20a44585e5148fc831993f980dba00a3fea411edd3e517225905d568f1f0ed3a",
+    "bytes": 2550
+  },
+  {
+    "path": "Assets/Scripts/Visual/SoundDesign.cs.meta",
+    "sha256": "44687dd79c5cbc65640a2322a538b32eb16b4447eae5df36ba31ccb1700683c2",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/World.meta",
+    "sha256": "7b74b14d68de162a18b27ad435f4139303fbc54ab87d4b8c34ffa77c718897cf",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Scripts/World/Breakable.cs",
+    "sha256": "0acb21763db06514d3e052e27f39e7a85bcbd32dbdc97609811bdd6c355c1f24",
+    "bytes": 365
+  },
+  {
+    "path": "Assets/Scripts/World/Breakable.cs.meta",
+    "sha256": "6da9e0796b157c37e796af5dde1aa1e5ebff2bf195d88651e663ba1644c4b572",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/World/MovingPlatform.cs",
+    "sha256": "8e7b77b06dba8f86969a0b0b6f81a9e2200776bb179b6e68e8822272714feb39",
+    "bytes": 1019
+  },
+  {
+    "path": "Assets/Scripts/World/MovingPlatform.cs.meta",
+    "sha256": "151375cba1cad658604bafc452bdcd948515f5ff4a8445afddc6eb7ccd23d344",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/World/PressHazard.cs",
+    "sha256": "c858032435d92b70f35614c9423e01c21c161fa940b9555e013ec7d6d35a6e51",
+    "bytes": 1085
+  },
+  {
+    "path": "Assets/Scripts/World/PressHazard.cs.meta",
+    "sha256": "ff892b8c598e1f285fcebd37ecf3764eb0d238e65f3dcf3fe94c6857c4a2c595",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/World/WorldBuilder.cs",
+    "sha256": "9f52601c9cb01da23f723f2d0921d1b699e063e1095dae96beff06968fc78234",
+    "bytes": 22931
+  },
+  {
+    "path": "Assets/Scripts/World/WorldBuilder.cs.meta",
+    "sha256": "28134190b5b9c443d51d607de47ac3fd7f41150259c127ad7eb8e4fa0609a27f",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Scripts/World/WorldInteractable.cs",
+    "sha256": "d5ade11b28d1e6cbaf94a745a83733eb4a1212c9aa41fc02652e84a540b5e6e8",
+    "bytes": 3050
+  },
+  {
+    "path": "Assets/Scripts/World/WorldInteractable.cs.meta",
+    "sha256": "2045695abc82193ee79a9feec640798789c5d862f5885a23298b615751e1fe50",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/UniversalRenderPipelineGlobalSettings.asset",
+    "sha256": "3993987e7add616bfdd7b103d3e691251a186064e114335b49400fbdf6c314a9",
+    "bytes": 28388
+  },
+  {
+    "path": "Assets/UniversalRenderPipelineGlobalSettings.asset.meta",
+    "sha256": "c03a91738c8228ab5a64105f793ec1dfb2881070c3fa88ce67a9a39a44fe66a2",
+    "bytes": 189
+  },
+  {
+    "path": "Build.ps1",
+    "sha256": "308d950b6412ff485a0eb270d4f0cbeea70a2a0012de9054d757682d23dc3dbc",
+    "bytes": 926
+  },
+  {
+    "path": "Launch.cmd",
+    "sha256": "8e50b2a136e28b8eb7b80da5d6daad83ded87d2cbae7356a93362c8e4f134c37",
+    "bytes": 300
+  },
+  {
+    "path": "Package.ps1",
+    "sha256": "1cb2e8b6ec8e3b58330f473b26579abed9aa80029ccd5ef97a61c32e8f0357a1",
+    "bytes": 5484
+  },
+  {
+    "path": "Packages/manifest.json",
+    "sha256": "a112d646ab3389f917f8f1f7d2bad0e600b1c8a20a4bd47bb907de1794f9c0b3",
+    "bytes": 345
+  },
+  {
+    "path": "Packages/packages-lock.json",
+    "sha256": "f24967141d71d5fbc7dde95388262304cfbf45de4ccbbf3239c0d4f31edb8161",
+    "bytes": 3803
+  },
+  {
+    "path": "PLAYTEST.md",
+    "sha256": "600c7f850729ac4ba6aa45338bdb08971e84a5959731b3622857a6acd214f036",
+    "bytes": 1917
+  },
+  {
+    "path": "ProjectSettings/AudioManager.asset",
+    "sha256": "9543c41dbfc7d3951217c4dd9481ed026eb8e529b85ecf4463969a0fea747729",
+    "bytes": 523
+  },
+  {
+    "path": "ProjectSettings/ClusterInputManager.asset",
+    "sha256": "40e65dd214bf254955d2c8829ca8ce2130fd3510485560ce012e9a1ddd93e623",
+    "bytes": 114
+  },
+  {
+    "path": "ProjectSettings/DynamicsManager.asset",
+    "sha256": "785919ec02924b9125bd572087d9e3ceb1844b1cceb3ff6144c1c1f56cd79047",
+    "bytes": 1575
+  },
+  {
+    "path": "ProjectSettings/EditorBuildSettings.asset",
+    "sha256": "22fb6151f323fc618c8a2eb43f0052f70abd0920dcd1588b422f153551f7f88b",
+    "bytes": 262
+  },
+  {
+    "path": "ProjectSettings/EditorSettings.asset",
+    "sha256": "4b842c80c4e630b6cb5416b817aba84b97014072e1ab555b08742344687ccdf5",
+    "bytes": 1691
+  },
+  {
+    "path": "ProjectSettings/GraphicsSettings.asset",
+    "sha256": "02cffce1e39cd0819ba1eda76221f4c2c5b4ff022c6dbbd7335f44aeb17c0ae6",
+    "bytes": 2531
+  },
+  {
+    "path": "ProjectSettings/InputManager.asset",
+    "sha256": "d0f454ddb880912abcae92e3e12957a7446786ba89e24937e019ff3bbc0d4300",
+    "bytes": 5816
+  },
+  {
+    "path": "ProjectSettings/MemorySettings.asset",
+    "sha256": "25fb3fdd1ce94347ccdcf23d5d5e446055ca81d8b3756a7df85d614645a71ac4",
+    "bytes": 1265
+  },
+  {
+    "path": "ProjectSettings/MultiplayerManager.asset",
+    "sha256": "aba89fd1a1ddad182727ad82727e536d27372e90328a8196da2a4560398983dd",
+    "bytes": 157
+  },
+  {
+    "path": "ProjectSettings/NavMeshAreas.asset",
+    "sha256": "7ebbf8f53b8033104e1878b95ca07a28d0954092d81c220f14196a42f651e658",
+    "bytes": 1361
+  },
+  {
+    "path": "ProjectSettings/Physics2DSettings.asset",
+    "sha256": "7280037ac908e26d4519825446c92c80a8520308016b171522760b535aadcbc0",
+    "bytes": 1863
+  },
+  {
+    "path": "ProjectSettings/PhysicsCoreProjectSettings2D.asset",
+    "sha256": "bedc5339a832c60dc3f11b84abc4f4384dbfa20b0cd9ad6c444b907e751fc35e",
+    "bytes": 151
+  },
+  {
+    "path": "ProjectSettings/PresetManager.asset",
+    "sha256": "29c125923fe6e29f90190d4fce1c82d660e7051546e2c9d02908d18c9cf2436c",
+    "bytes": 146
+  },
+  {
+    "path": "ProjectSettings/ProjectAuditorSettings.asset",
+    "sha256": "9e68444b9bda981e2927a98df9edf69ea88362f0c6b7f3c81b39b9d515d2a416",
+    "bytes": 1036
+  },
+  {
+    "path": "ProjectSettings/ProjectSettings.asset",
+    "sha256": "c930e7f72fc2e10671e1bc62320a3d15b55d4da140d3c05d8e207924baf83759",
+    "bytes": 21462
+  },
+  {
+    "path": "ProjectSettings/ProjectVersion.txt",
+    "sha256": "2a88e6864b6f54588287bed3bc6e9260e65bd49498910cca4478770ca8a5d674",
+    "bytes": 83
+  },
+  {
+    "path": "ProjectSettings/QualitySettings.asset",
+    "sha256": "22ef1c6bc71992584e4336a287d2c429a2f69306c24d1df79033274a5af7836c",
+    "bytes": 9857
+  },
+  {
+    "path": "ProjectSettings/SceneTemplateSettings.json",
+    "sha256": "bb9098b3bfcde78d93e264b96f7b77b5430e64e8c57a7aad7f5a5d9c3945e16a",
+    "bytes": 3535
+  },
+  {
+    "path": "ProjectSettings/ShaderGraphSettings.asset",
+    "sha256": "6fead5a816c4eed70f224d5472340ecf1ea0b4de4f87d5926bb17fa10ffb3dc9",
+    "bytes": 633
+  },
+  {
+    "path": "ProjectSettings/TagManager.asset",
+    "sha256": "996628fdc904025b83606bbfbda4fe08c0bbe916475146110e77cdc2f22c2013",
+    "bytes": 443
+  },
+  {
+    "path": "ProjectSettings/TimeManager.asset",
+    "sha256": "3396f52fdc16d445024e01d7a2d99db6f0a37569d1d73c0302e9ffb857d90287",
+    "bytes": 305
+  },
+  {
+    "path": "ProjectSettings/UnityConnectSettings.asset",
+    "sha256": "bfd9b4ad7ba0f6044f0957cd427df1d8e49dcf9453fdfc35dac74c64bbffa8f3",
+    "bytes": 1191
+  },
+  {
+    "path": "ProjectSettings/VersionControlSettings.asset",
+    "sha256": "e199cdfa6a8f2bf33cfd47e549198f13e3eb2a5099e908fdb4e0f14d939ccc6b",
+    "bytes": 172
+  },
+  {
+    "path": "ProjectSettings/VFXManager.asset",
+    "sha256": "d2937fe93ff49c2ce60f888056b70ebc0a1df7dd5e22dab3fa41678c2a3f3858",
+    "bytes": 558
+  },
+  {
+    "path": "Provenance/human-modifications.md",
+    "sha256": "85120d265f32e9040e4f3a252cf3994af0feabb060277018564cf5199dfbd0d7",
+    "bytes": 673
+  },
+  {
+    "path": "Provenance/production-start.json",
+    "sha256": "40140374dfcaac7759f3187ad0e918420bd2600348efaeb95a8feb4c4c0beb2c",
+    "bytes": 1110
+  },
+  {
+    "path": "Provenance/public-generation-log.md",
+    "sha256": "0525fc2b9a6a810bc22be6323ff2c6c60846369b3310c913b2d0eb84a7f359ae",
+    "bytes": 3498
+  },
+  {
+    "path": "Provenance/task-original.txt",
+    "sha256": "1f6074d598f56750f337278ce841d970d6592e5577ef08d80e5cbef511ce87f6",
+    "bytes": 8396
+  },
+  {
+    "path": "README.md",
+    "sha256": "8af55ea2522a0c2b2ce734cf43e15a8ec0dadce5e0dbfa4f4af196e7f9ad4d8a",
+    "bytes": 5197
+  },
+  {
+    "path": "RIGHTS.md",
+    "sha256": "942405d49d25c74199b2d3799072b7c70983c4403e95004e4667feecf84abb8a",
+    "bytes": 2534
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.collections@4920e8897b5a/LICENSE.md",
+    "sha256": "4947f647c031b0fec440237f8136386a606dd998089bb1df67316ee693f568f5",
+    "bytes": 448
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.ext.nunit@0198eae3b53e/LICENSE.md",
+    "sha256": "3622d79bb4de21087d36ba91bcc84816e6fc2ace098e17eb431b9e1dfb6dde32",
+    "bytes": 433
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.ext.nunit@0198eae3b53e/Third Party Notices.md",
+    "sha256": "ef37b1ccbae5e9b641482cbd77a74ee96193a39d232cc8d856b9044f37db9244",
+    "bytes": 1249
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.nuget.mono-cecil@ecb9724e46ff/LICENSE.md",
+    "sha256": "76101254034fbea9afc4169e98ce15382b0f130e3bf15e7da1ca599d940e1cda",
+    "bytes": 486
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.nuget.mono-cecil@ecb9724e46ff/Third Party Notices.md",
+    "sha256": "99966d24b32096a2a1963d9ccec993cf1c729fafd359179ee727762b2dd2b4ba",
+    "bytes": 1277
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.profiling.core@8a49f7027d06/LICENSE.md",
+    "sha256": "33197414e7362ae534aeeab9ab6a9dfe0b5ca74b04f304805f592bcf667a5a99",
+    "bytes": 485
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.render-pipelines.core@13460d8ea9e5/LICENSE.md",
+    "sha256": "39691adc5fdaf614d951f53637e22501baf46fcc535a69ab8a21ebaa8b9e9cb4",
+    "bytes": 491
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.render-pipelines.core@13460d8ea9e5/THIRD PARTY NOTICES.md",
+    "sha256": "fdfacc9a242bda05b26eace324033b467b7d70e83a2761cd03337b612affc339",
+    "bytes": 3587
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.render-pipelines.universal-config@561422b74439/LICENSE.md",
+    "sha256": "fa2dcbc8ff967f49342c6c61854909ba4bbcc70b27f07d25538b8eaf7be5be3c",
+    "bytes": 503
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.render-pipelines.universal@ffe395a3a1d1/LICENSE.md",
+    "sha256": "4be520a425e06c8de56fa8aee1ce957cfe610406456278172a2d18b7c388c2cf",
+    "bytes": 496
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.render-pipelines.universal@ffe395a3a1d1/Third Party Notices.md",
+    "sha256": "0652509dfc81a1a3d9e037e59bd047b305155fc5c4abeef69e2fc078488035fd",
+    "bytes": 1794
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.searcher@a463122f2c00/LICENSE.md",
+    "sha256": "73e67aa49be44b2b1e37d4244224bf111a82b79235324457bcc82ac4fb339f61",
+    "bytes": 5842
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.shadergraph@8b7e693cdbfe/LICENSE.md",
+    "sha256": "364b0c08b7fe15b70c4777dccb26fc21d02ae831c2f707dbe29879ac15ece353",
+    "bytes": 481
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.test-framework.performance@e8b39e3ef3d9/LICENSE.md",
+    "sha256": "202adffac8b9d21d3b148a294d241894f3bcef85724c01b6a0bd52269a3798c8",
+    "bytes": 496
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.test-framework.performance@e8b39e3ef3d9/Third Party Notices.md",
+    "sha256": "361cdb83b8f7c4868ad5c61d8014ab423d9229919219f77bae1eb36084e0227a",
+    "bytes": 1317
+  },
+  {
+    "path": "ThirdPartyNotices/com.unity.test-framework@ee3fe9477490/LICENSE.md",
+    "sha256": "d3b09e9683afbc8d468a83000308f18e7133eaf7879af870747000a66e3c0693",
+    "bytes": 475
+  },
+  {
+    "path": "ThirdPartyNotices/index.json",
+    "sha256": "bc91c2ec93cb7cc65e1cb20369443fcda257ade2cd0a2d708976ec3df96603f4",
+    "bytes": 2960
+  },
+  {
+    "path": "Validation/01-workshop.png",
+    "sha256": "79a9f513bfe1058bcecba945f5e800aa7ed962615e63ca2d9f184267e6ac8f8a",
+    "bytes": 398982
+  },
+  {
+    "path": "Validation/02-lift-shaft.png",
+    "sha256": "70a47e348eb49ecec1c302b0446f2801d6af37caae7ae99197b5d4914ae4f5fc",
+    "bytes": 411508
+  },
+  {
+    "path": "Validation/03-clock-core.png",
+    "sha256": "0061f07f57e520c00288cfdbf38e1c3a11afdae8f4eba5ab183cb254bf3608d8",
+    "bytes": 463459
+  },
+  {
+    "path": "Validation/build-result.json",
+    "sha256": "ba98e842eb18714a951c5775f9aafe98b2a0e4aa91cb1fc98e147a4a6a73f2ed",
+    "bytes": 167
+  },
+  {
+    "path": "Validation/final-summary.txt",
+    "sha256": "444b45eb8d25d1665f825a439dd2ff6e5f828e2b35b752ee923fb9e5617319da",
+    "bytes": 311
+  },
+  {
+    "path": "Validation/performance-sample.txt",
+    "sha256": "64d1ba0c3713400b8dadb1b6650114b245ad26f38d9e22d49530b7b256e85b45",
+    "bytes": 324
+  },
+  {
+    "path": "Validation/rule-checks.txt",
+    "sha256": "744a2e9fe0ff08e4ae5eb80e9220a0eea65a5211d0b02eca8abaf58a6bd6bb96",
+    "bytes": 841
+  },
+  {
+    "path": "Validation/runtime-checks.txt",
+    "sha256": "9576b8afd72bc04cd3f1d28ad454d5ff3efd092ee50f90e9b5ad87f7eefcc5c1",
+    "bytes": 442
+  },
+  {
+    "path": "Validation/runtime-environment.txt",
+    "sha256": "11e60fb5b33193f46da5c7fc6d048eb7a1005c410abcb30260c537adfceac910",
+    "bytes": 287
+  },
+  {
+    "path": "Validation/verification-report.md",
+    "sha256": "a9824c5988862c3b8a8307f6e83853d0c7a7788c66e8172e0656eae6a2aa2a5e",
+    "bytes": 3147
+  }
+]

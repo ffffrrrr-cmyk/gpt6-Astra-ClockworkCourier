@@ -1,0 +1,82 @@
+[
+  {
+    "package": "com.unity.collections@4920e8897b5a",
+    "file": "LICENSE.md",
+    "sha256": "4947F647C031B0FEC440237F8136386A606DD998089BB1DF67316EE693F568F5"
+  },
+  {
+    "package": "com.unity.ext.nunit@0198eae3b53e",
+    "file": "LICENSE.md",
+    "sha256": "3622D79BB4DE21087D36BA91BCC84816E6FC2ACE098E17EB431B9E1DFB6DDE32"
+  },
+  {
+    "package": "com.unity.ext.nunit@0198eae3b53e",
+    "file": "Third Party Notices.md",
+    "sha256": "EF37B1CCBAE5E9B641482CBD77A74EE96193A39D232CC8D856B9044F37DB9244"
+  },
+  {
+    "package": "com.unity.nuget.mono-cecil@ecb9724e46ff",
+    "file": "LICENSE.md",
+    "sha256": "76101254034FBEA9AFC4169E98CE15382B0F130E3BF15E7DA1CA599D940E1CDA"
+  },
+  {
+    "package": "com.unity.nuget.mono-cecil@ecb9724e46ff",
+    "file": "Third Party Notices.md",
+    "sha256": "99966D24B32096A2A1963D9CCEC993CF1C729FAFD359179EE727762B2DD2B4BA"
+  },
+  {
+    "package": "com.unity.profiling.core@8a49f7027d06",
+    "file": "LICENSE.md",
+    "sha256": "33197414E7362AE534AEEAB9AB6A9DFE0B5CA74B04F304805F592BCF667A5A99"
+  },
+  {
+    "package": "com.unity.render-pipelines.core@13460d8ea9e5",
+    "file": "LICENSE.md",
+    "sha256": "39691ADC5FDAF614D951F53637E22501BAF46FCC535A69AB8A21EBAA8B9E9CB4"
+  },
+  {
+    "package": "com.unity.render-pipelines.core@13460d8ea9e5",
+    "file": "THIRD PARTY NOTICES.md",
+    "sha256": "FDFACC9A242BDA05B26EACE324033B467B7D70E83A2761CD03337B612AFFC339"
+  },
+  {
+    "package": "com.unity.render-pipelines.universal-config@561422b74439",
+    "file": "LICENSE.md",
+    "sha256": "FA2DCBC8FF967F49342C6C61854909BA4BBCC70B27F07D25538B8EAF7BE5BE3C"
+  },
+  {
+    "package": "com.unity.render-pipelines.universal@ffe395a3a1d1",
+    "file": "LICENSE.md",
+    "sha256": "4BE520A425E06C8DE56FA8AEE1CE957CFE610406456278172A2D18B7C388C2CF"
+  },
+  {
+    "package": "com.unity.render-pipelines.universal@ffe395a3a1d1",
+    "file": "Third Party Notices.md",
+    "sha256": "0652509DFC81A1A3D9E037E59BD047B305155FC5C4ABEEF69E2FC078488035FD"
+  },
+  {
+    "package": "com.unity.searcher@a463122f2c00",
+    "file": "LICENSE.md",
+    "sha256": "73E67AA49BE44B2B1E37D4244224BF111A82B79235324457BCC82AC4FB339F61"
+  },
+  {
+    "package": "com.unity.shadergraph@8b7e693cdbfe",
+    "file": "LICENSE.md",
+    "sha256": "364B0C08B7FE15B70C4777DCCB26FC21D02AE831C2F707DBE29879AC15ECE353"
+  },
+  {
+    "package": "com.unity.test-framework.performance@e8b39e3ef3d9",
+    "file": "LICENSE.md",
+    "sha256": "202ADFFAC8B9D21D3B148A294D241894F3BCEF85724C01B6A0BD52269A3798C8"
+  },
+  {
+    "package": "com.unity.test-framework.performance@e8b39e3ef3d9",
+    "file": "Third Party Notices.md",
+    "sha256": "361CDB83B8F7C4868AD5C61D8014AB423D9229919219F77BAE1EB36084E0227A"
+  },
+  {
+    "package": "com.unity.test-framework@ee3fe9477490",
+    "file": "LICENSE.md",
+    "sha256": "D3B09E9683AFBC8D468A83000308F18E7133EAF7879AF870747000A66E3C0693"
+  }
+]

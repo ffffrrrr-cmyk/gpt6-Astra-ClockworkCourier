@@ -1,0 +1,5 @@
+Status: ENVIRONMENT_LIMITED
+Window presentation is suppressed in hidden/background validation. Update-loop timing is not a valid rendered FPS measurement.
+No 1080p 60 FPS claim is made.
+Actual Camera.Render screenshots verify offscreen rendering only.
+Visible-window gameplay performance and UI remain pending user testing.
